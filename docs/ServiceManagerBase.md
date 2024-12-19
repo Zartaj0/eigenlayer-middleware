@@ -64,4 +64,4 @@ When the `RegistryCoordinator` deregisters an operator from an AVS, it calls thi
 
 *Requirements*:
 * Caller MUST be the `RegistryCoordinator`
-* See EigenLayer core: [`AVSDirectory.deregisterOperatorFromAVS`][core-dmgr-deregister]
+* See EigenLayer core: [`AVSDirectory.deregisterOperatorFromAVS`][core-deregisterFromAVS]
